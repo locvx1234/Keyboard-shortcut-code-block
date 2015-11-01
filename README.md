@@ -166,8 +166,9 @@ This is a list of shortcuts provided by the Code::Blocks' tab component. These s
 
 
 
- Retrieved from "http://wiki.codeblocks.org/index.php?title=Keyboard_Shortcuts&oldid=5785"
-Category: User Documentation
+Retrieved from "http://wiki.codeblocks.org/index.php?title=Keyboard_Shortcuts&oldid=5785"
+
+- Category: User Documentation
 
 
 
